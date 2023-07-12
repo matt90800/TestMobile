@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Alarme</string>
+    <string name="title_activity_main">Alarme</string>
+    <string name="package_name">net.ddns.mattbld</string>
+    <string name="custom_url_scheme">net.ddns.mattbld</string>
+</resources>
